@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-art.svg" alt="Arte surrealista en blanco y negro" width="720">
+<img src="profile-original.png" alt="Dibujo original de Sebastian" width="488">
 
 # SEBASTIAN TE HACKEARON DATE CUENTA
 
